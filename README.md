@@ -19,7 +19,7 @@ strings
   upper()
   lower()
   len()
-  
+
 
   
 ## Week 2: Electronics for Innovators
